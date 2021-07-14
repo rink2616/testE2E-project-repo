@@ -1,0 +1,7 @@
+21:51:43.998 [main] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+21:51:50.350 [main] INFO  resources.Base - nonrestricted user
+21:51:50.574 [main] INFO  Academy.Listeners - *** Test Suite basePageNavigation ending ***
+21:51:53.444 [main] INFO  resources.Base - restricted user
+21:51:56.299 [main] INFO  resources.Base - Driver is initialize
+21:52:04.485 [main] INFO  resources.Base - navigated to home page
+21:52:04.623 [main] INFO  Academy.Listeners - *** Test Suite validatetitle ending ***
